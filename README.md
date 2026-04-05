@@ -2,8 +2,7 @@
 
 A clean, interactive finance dashboard built with **React + Vite** for tracking and understanding financial activity.
 
-**Live Demo:** [https://finance-dashboard-shalini.vercel.app](https://finance-dashboard-shalini.vercel.app)  
-*(Replace this link with your actual Vercel URL after deployment)*
+**Live Demo:** [https://finance-dashboard-dusky-phi.vercel.app](https://finance-dashboard-dusky-phi.vercel.app)
 
 **GitHub:** [https://github.com/shalini-sinha-codes/finance-dashboard](https://github.com/shalini-sinha-codes/finance-dashboard)
 
