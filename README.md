@@ -156,14 +156,15 @@ All state is centralized in `AppContext.jsx` using React's built-in **Context AP
 ## Screenshots
 
 > Light mode — Dashboard overview
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/911a33ee-176b-4d22-9c44-b2be6e37c611" />
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34e146d0-a402-412a-bf79-94db203c6ce2" />
 
 > Dark mode — Transactions table
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/423f2fbd-248d-4e88-bf80-b70b6254a73e" />
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51b50cd8-4cde-411d-b490-ecd1463a700c" />
 
 > Admin role — Add transaction form
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0456b28b-c9d7-4d0a-a408-de8ebf209855" />
- 
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9061c01f-0c82-4682-a6bc-445646f0926c" />
+
 > Insights — Monthly comparison
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b59e9b6-9139-46b5-a1dc-79f1329f32d4" />
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5251eba1-6b0b-482f-a30c-3523e60fcc74" />
+
 
