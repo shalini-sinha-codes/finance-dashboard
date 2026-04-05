@@ -155,9 +155,15 @@ All state is centralized in `AppContext.jsx` using React's built-in **Context AP
 
 ## Screenshots
 
-> *(Add screenshots here after deployment)*
->
-> Light mode — Dashboard overview  
-> Dark mode — Transactions table  
-> Admin role — Add transaction form  
-> Insights — Monthly comparison  
+> Light mode — Dashboard overview
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/911a33ee-176b-4d22-9c44-b2be6e37c611" />
+
+> Dark mode — Transactions table
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/423f2fbd-248d-4e88-bf80-b70b6254a73e" />
+
+> Admin role — Add transaction form
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0456b28b-c9d7-4d0a-a408-de8ebf209855" />
+ 
+> Insights — Monthly comparison
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b59e9b6-9139-46b5-a1dc-79f1329f32d4" />
+
